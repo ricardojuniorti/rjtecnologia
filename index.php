@@ -204,7 +204,7 @@
                 <div>
                   <h4 class="thumbnail-terry-title">Melhorias no seu sistema!</h4>
                 </div>
-                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos">Saiba mais...</a>
+                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos" data-toggle="modal" data-target="#melhorias">Saiba mais...</a>
               </figcaption>
             </figure>
           </div>
@@ -215,7 +215,7 @@
                 <div>
                   <h4 class="thumbnail-terry-title">Manutencão em PC</h4>
                 </div>
-                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos">fazemos tb!</a>
+                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos" data-toggle="modal" data-target="#manutencao">fazemos tb!</a>
               </figcaption>
             </figure>
           </div>
