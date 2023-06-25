@@ -155,7 +155,13 @@
           <div class="row justify-content-sm-center offset-top-66">
             <div class="col-xl-8">
               <p>
-                Sou o Ricardo e trabalho como Analista de Sistemas há mais 12 anos, sou Pós graduado em Desenvolvimento Web Full Stack Pela PUCMINAS e Desenvolvo sistemas desde 2010. Entusiasta em Retrogames dos anos 80 e 90, faço configurações e instalações de emuladores e roms de video games. Sou técnico em informática nas horas vagas e faço serviços de limpeza, manutenção, formatação e instalação de drivers.
+                Sou o Ricardo, um profissional com pós-graduação em Desenvolvimento Web Full Stack pela PUC Minas e mais de uma década de experiência em desenvolvimento de sistemas. Tenho habilidades em todas as camadas do desenvolvimento, desde o front-end até o back-end.
+
+                Além do desenvolvimento de sistemas, também tenho experiência em manutenção de computadores e notebooks. Com minha expertise, posso fornecer soluções eficientes e suporte técnico.
+
+                Minha abordagem é focada na qualidade, detalhes e resolução de problemas. Trabalho de forma colaborativa com os clientes para atender às suas necessidades específicas e desenvolver soluções personalizadas.
+
+                Se você está procurando um profissional experiente em desenvolvimento de sistemas e manutenção de computadores, estou aqui para ajudar. Entre em contato comigo para discutir como posso contribuir para o sucesso dos seus projetos tecnológicos.
               </p>
             </div>
           </div>
