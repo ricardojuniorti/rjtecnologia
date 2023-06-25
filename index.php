@@ -304,7 +304,7 @@
         </div>
       </section>
       <div class="buttonzap">
-        <a href='https://api.whatsapp.com/send?phone=5531991529663&'class="icone" target='_blank'><i class="fab fa-whatsapp"></i></a>
+        <a href='https://api.whatsapp.com/send?phone=5531991529663&text=Gostaria%20de%20saber%20mais%20sobre%20o%20desenvolvimento%20de%20Sistemas e sites!!!'class="icone" target='_blank'><i class="fab fa-whatsapp"></i></a>
       </div>
       <!-- Page Footer-->
       <footer class="section-relative section-top-66 section-bottom-34 page-footer bg-gray-base context-dark novi-background" data-preset='{"title":"Footer","category":"footer","reload":true,"id":"footer"}'>
@@ -317,10 +317,6 @@
                   <!-- Flickr Feed-->
                   <p class="text-uppercase text-spacing-60 font-weight-bold">Feito por: Ricardo Junior</p>
                   <p class="text-spacing-60 font-weight-bold">ricardojuniorti@gmail.com</p>
-                  <div class="offset-top-24">
-                          <div class="group-xs flickr widget-flickrfeed" data-lightgallery="group" data-flickr-tags="tm58888_landscapes"><a class="flickr-item thumbnail-classic" data-lightgallery="item" href="" data-image_c="href" data-size="800x800" data-type="flickr-item"><img width="82" height="82" data-title="alt" src="images/_blank.png" alt="" data-image_q="src"></a><a class="flickr-item thumbnail-classic" data-lightgallery="item" href="" data-image_c="href" data-size="800x800" data-type="flickr-item"><img width="82" height="82" data-title="alt" src="images/_blank.png" alt="" data-image_q="src"></a><a class="flickr-item thumbnail-classic" data-lightgallery="item" href="" data-image_c="href" data-size="800x800" data-type="flickr-item"><img width="82" height="82" data-title="alt" src="images/_blank.png" alt="" data-image_q="src"></a><a class="flickr-item thumbnail-classic" data-lightgallery="item" href="" data-image_c="href" data-size="800x800" data-type="flickr-item"><img width="82" height="82" data-title="alt" src="images/_blank.png" alt="" data-image_q="src"></a>
-                          </div>
-                  </div>
                 </div>
                
                 <div class="col-sm-10 col-md-3 offset-top-66 order-md-1 offset-md-top-0 col-md-6 col-xl-3 order-xl-1">
