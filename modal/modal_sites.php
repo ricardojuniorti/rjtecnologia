@@ -12,7 +12,7 @@
             <p>
               Criamos para você um site completo e profissional para alavancar o seu negócio através da internet! Receba contatos com o formulário de orçamento, tenha galerias de fotos com os seus produtos e serviços, divulgue seus contatos e aumente as oportunidades de novos negócios, exiba localização exata de sua empresa e muito mais...
             </p>       
-            <p><span class="icon mdi mdi-whatsapp novi-icon"></span> Desenvolvedor: Ricardo Junior</p>
+            <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-info" data-dismiss="modal">Fechar</button>

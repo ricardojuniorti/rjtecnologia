@@ -12,7 +12,7 @@
             <p>
               O desenvolvimento de sistema sob medida, criado para atender as demandas e métodos específicos da sua empresa, pode ser opção ideal para realmente automatizar suas tarefas, aperfeiçoando o método que sua empresa trabalha atualmente, com o mínimo de impacto na rotina de seus colaboradores.
             </p>
-            <p><b>Contato:</b> ricardojuniorti@gmail.com</p>
+            <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-primary" data-dismiss="modal">Fechar</button>
