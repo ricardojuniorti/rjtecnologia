@@ -341,5 +341,7 @@
     ?>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
+    <script>window.rwbp={email:'ricardojuniorti@gmail.com',phone:'5531991529663',message:'Olá, seja bem vindo! Como podemos te ajudar?',lang:'pt-BR'}</script>
+    <script defer async src='https://duz4dqsaqembt.cloudfront.net/client/whats.js'></script>
   </body>
 </html>
