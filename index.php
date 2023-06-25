@@ -179,7 +179,7 @@
                 <div>
                   <h4 class="thumbnail-terry-title">Desenvolvimento de Sistemas</h4>
                 </div>
-                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos">Vamos la!</a>
+                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos" data-toggle="modal" data-target="#desenvolvimento_sistema">Vamos la!</a>
               </figcaption>
             </figure>
           </div>
@@ -190,7 +190,7 @@
                 <div>
                   <h4 class="thumbnail-terry-title">Criação de Sites</h4>
                 </div>
-                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos">Eu quero</a>
+                <p class="thumbnail-terry-desc offset-top-0"></p><a class="btn offset-top-10 offset-lg-top-0 btn-danger" href="#servicos" data-toggle="modal" data-target="#desenvolvimento_site">Eu quero</a>
               </figcaption>
             </figure>
           </div>
@@ -328,6 +328,16 @@
         </div>
       </footer>
     </div>
+
+    <?php
+    
+    include('modal/modal_desenvolvimento.php');
+    include('modal/modal_sites.php');
+    include('modal/modal_melhorias.php');
+    include('modal/modal_manutencao.php');
+
+    ?>
+
     <!-- Global Mailform Output-->
     <div class="snackbars" id="form-output-global"></div>
     <!-- Java script-->
