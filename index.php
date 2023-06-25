@@ -10,6 +10,7 @@
     <meta name="date" content="Dec 26">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,700,700italic">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
@@ -302,7 +303,9 @@
           </div>
         </div>
       </section>
-
+      <div class="buttonzap">
+        <a href='https://api.whatsapp.com/send?phone=5531991529663&'class="icone" target='_blank'><i class="fab fa-whatsapp"></i></a>
+      </div>
       <!-- Page Footer-->
       <footer class="section-relative section-top-66 section-bottom-34 page-footer bg-gray-base context-dark novi-background" data-preset='{"title":"Footer","category":"footer","reload":true,"id":"footer"}'>
         <div class="container">
@@ -341,7 +344,5 @@
     ?>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
-    <script>window.rwbp={email:'ricardojuniorti@gmail.com',phone:'5531991529663',message:'Olá, seja bem vindo! Como podemos te ajudar?',lang:'pt-BR'}</script>
-    <script defer async src='js/funcoes.js'></script>
   </body>
 </html>
