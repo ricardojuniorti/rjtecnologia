@@ -122,7 +122,7 @@
                 </div>
               </div>
             </div>
-            <div class="swiper-slide" data-slide-bg="images/3.jpeg" data-preview-bg="images/3.jpeg">
+            <div class="swiper-slide" data-slide-bg="images/2.jpeg" data-preview-bg="images/3.jpeg">
               <div class="swiper-caption swiper-parallax" data-speed="0.5" data-fade="true">
                 <div class="swiper-slide-caption">
                   <div class="container">
