@@ -20,7 +20,7 @@
 
             Nossa equipe é amigável e profissional, dedicada a fornecer um serviço excepcional. Entre em contato conosco hoje mesmo para agendar uma consulta ou solicitar nossos serviços de manutenção de computadores confiáveis e eficientes. Confie no [Nome da sua Empresa] para cuidar do seu computador!"
             </p>       
-            <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p>
+            <p><a href='https://api.whatsapp.com/send?phone=5531991529663&text=Gostaria%20de%20saber%20mais%20sobre%20o%20desenvolvimento%20de%20Sistemas e sites!!!'class="" target='_blank'> <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p></a>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>

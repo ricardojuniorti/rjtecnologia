@@ -13,7 +13,7 @@
               O desenvolvimento de sistema sob medida, criado para atender as demandas e métodos específicos da sua empresa, pode ser opção ideal para realmente automatizar suas tarefas, aperfeiçoando o método que sua empresa trabalha atualmente, com o mínimo de impacto na rotina de seus colaboradores.
             </p>
             
-            <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p>
+            <p><a href='https://api.whatsapp.com/send?phone=5531991529663&text=Gostaria%20de%20saber%20mais%20sobre%20o%20desenvolvimento%20de%20Sistemas e sites!!!'class="" target='_blank'> <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p></a>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-primary" data-dismiss="modal">Fechar</button>

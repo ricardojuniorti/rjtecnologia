@@ -20,7 +20,7 @@
             
             &nbsp;&nbsp;&nbsp;Entre em contato conosco hoje mesmo para agendar uma consulta e descobrir como podemos melhorar os sistemas de informações da sua empresa.
             </p>       
-            <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p>
+            <p><a href='https://api.whatsapp.com/send?phone=5531991529663&text=Gostaria%20de%20saber%20mais%20sobre%20o%20desenvolvimento%20de%20Sistemas e sites!!!'class="" target='_blank'> <p><span class="icon mdi mdi-whatsapp novi-icon"></span>Entre em contato para mais informações</p></a>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-info" data-dismiss="modal">Fechar</button>
