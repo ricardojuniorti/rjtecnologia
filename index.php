@@ -105,7 +105,7 @@
                 </div>
               </div>
             </div>
-            <div class="swiper-slide" data-slide-bg="https://source.unsplash.com/random/1920x750/?macbook" data-preview-bg="https://source.unsplash.com/random/1920x750/?macbook">
+            <div class="swiper-slide" data-slide-bg="https://source.unsplash.com/random/1920x750/?notebook" data-preview-bg="https://source.unsplash.com/random/1920x750/?notebook">
               <div class="swiper-caption swiper-parallax" data-speed="0.5" data-fade="true">
                 <div class="swiper-slide-caption">
                   <div class="container">
