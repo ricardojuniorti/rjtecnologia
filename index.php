@@ -83,7 +83,6 @@
             </div>
           </nav>
         </div>
-
         <!--Swiper-->
         <div id="principal" class="swiper-container swiper-slider" data-loop="false" data-autoplay="5500" data-dragable="false">
           <div class="swiper-wrapper text-center">
@@ -238,7 +237,7 @@
               <div class="row">
                 <div class="col-md-6 col-xl-3">
                   <!-- Box Member-->
-                  <div class="box-member"><img class="img-fluid" src="images/todeboua.png" alt=""/>
+                  <div class="box-member"><img class="floater" src="images/todeboua.png" alt=""/>
                     <h5 class="font-weight-bold offset-top-20"><h6>ToDeBoua Loja Virtual</h6> 
                     </h5>
                   </div>
@@ -246,7 +245,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3 offset-top-66 offset-md-top-0 offset-xl-top-0">
                   <!-- Box Member-->
-                  <div class="box-member"><img class="img-fluid" src="images/aprendermaisweb.png" alt=""/>
+                  <div class="box-member"><img class="floater" src="images/aprendermaisweb.png" alt=""/>
                     <h5 class="font-weight-bold offset-top-20"><h6>Aprender Mais Web - Renato Gomes</h6>
                     </h5>
                     <div class="box-member-caption">
@@ -262,14 +261,14 @@
                 </div>
                 <div class="col-md-6 col-xl-3 offset-top-66 offset-xl-top-0">
                   <!-- Box Member-->
-                  <div class="box-member"><img class="img-fluid" src="images/link.png" alt=""/>
+                  <div class="box-member"><img class="floater" src="images/link.png" alt=""/>
                     <h5 class="font-weight-bold offset-top-20"><h6">Link Tecnologia</h6>
                     </h5>
                   </div>
                 </div>
                 <div class="col-md-6 col-xl-3 offset-top-66 offset-xl-top-0">
                   <!-- Box Member-->
-                  <div class="box-member"><img class="img-fluid" src="images/vendas.png" alt=""/>
+                  <div class="box-member"><img class="floater" src="images/vendas.png" alt=""/>
                     <h5 class="font-weight-bold offset-top-20"><h6>Controle de Estoque On line</h6>
                     </h5>
                   </div>
@@ -346,5 +345,6 @@
     ?>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
+    <!-- ionicons -->
   </body>
 </html>

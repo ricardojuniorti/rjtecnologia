@@ -30909,3 +30909,80 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 	font-weight: 900;
 	box-shadow: 2px 2px 20px #5fe690;
   }
+
+
+
+.barrelRoll,
+.fadeIn,
+.floater,
+.heartbeat,
+.pulse,
+.rollerLeft,
+.rollerRight,
+.rotateIn,
+.rotateInLeft,
+.rotateInRight,
+.rotation,
+.shake,
+.sideToSide,
+.slideDown,
+.slideLeft,
+.slideRight,
+.slideUp,
+.spinner,
+.wiggle,
+.zoomer,
+.zoomerOut {
+    visibility: visible !important
+}
+
+.floater {
+    animation-name: floater;
+    -webkit-animation-name: floater;
+    animation-duration: 1.5s;
+    -webkit-animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite
+}
+
+.floater,
+.wiggle {
+    animation-iteration-count: infinite
+}
+
+.floater,
+.wiggle {
+    animation-iteration-count: infinite
+}
+
+@keyframes floater {
+
+    0%,
+    100% {
+        transform: translateY(0)
+    }
+
+    50% {
+        transform: translateY(5%)
+    }
+
+
+    30% {
+        transform: translateY(8%)
+    }
+}
+
+@-webkit-keyframes floater {
+
+    0%,
+    100% {
+        -webkit-transform: translateY(0)
+    }
+
+    50% {
+        -webkit-transform: translateY(5%)
+    }
+
+    30% {
+        -webkit-transform: translateY(8%)
+    }
+}
