@@ -289,7 +289,7 @@
 
       <!-- Testimonials-->
       <section id="contato" data-preset='{"title":"Testimonials","category":"content, testimonials, parallax","reload":true,"id":"testimonials"}'>
-        <div class="parallax-container" data-parallax-img="https://source.unsplash.com/random/1920x850/?evangelical">
+        <div class="parallax-container" data-parallax-img="images/2.jpeg">
           <div class="parallax-content">
             <div class="bg-overlay-gray-darkest context-dark">
               <div class="container section-98 section-md-110">
