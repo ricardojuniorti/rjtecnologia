@@ -195,7 +195,7 @@
           </div>
           <div>
             <!-- Thumbnail Terry-->
-            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="https://source.unsplash.com/random/480x480/?web" alt=""/></a>
+            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="images/30.jpeg" alt=""/></a>
               <figcaption>
                 <div>
                   <h4 class="thumbnail-terry-title">Criação de Sites</h4>
@@ -206,7 +206,7 @@
           </div>
           <div>
             <!-- Thumbnail Terry-->
-            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="https://source.unsplash.com/random/480x480/?analitics" alt=""/></a>
+            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="images/21.jpeg" alt=""/></a>
               <figcaption>
                 <div>
                   <h4 class="thumbnail-terry-title">Melhorias no seu sistema!</h4>
@@ -217,7 +217,7 @@
           </div>
           <div>
             <!-- Thumbnail Terry-->
-            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="https://source.unsplash.com/random/480x480/?computer" alt=""/></a>
+            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="images/20.jpeg" alt=""/></a>
               <figcaption>
                 <div>
                   <h4 class="thumbnail-terry-title">Manutencão em PC</h4>
