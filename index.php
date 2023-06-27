@@ -181,8 +181,10 @@
         <h1>Serviços</h1>
         <div class="owl-carousel owl-carousel-default d-lg-none-owl-dots veil-owl-nav d-lg-owl-nav" data-items="1" data-sm-items="2" data-lg-items="3" data-xl-items="4" data-nav="true" data-dots="true" data-nav-class="[&quot;owl-prev mdi mdi-chevron-left&quot;, &quot;owl-next mdi mdi-chevron-right&quot;]">       
           <div>
-            <!-- Thumbnail Terry-->
-            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="https://source.unsplash.com/random/480x480/?code" alt=""/></a>
+            <!-- Thumbnail Terry  https://source.unsplash.com/random/480x480/?code
+            -->
+
+            <figure class="thumbnail-terry"><a href="#servicos"><img width="480" height="480" src="images/desenvolvimento.jpeg" alt=""/></a>
               <figcaption>
                 <div>
                   <h4 class="thumbnail-terry-title">Desenvolvimento de Sistemas</h4>
