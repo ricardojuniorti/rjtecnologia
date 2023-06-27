@@ -95,9 +95,12 @@
                         <div class=" font-weight-bold font-italic text-uppercase" data-caption-animate="fadeInUp" data-caption-delay="300"><h1>Desenvolvimento de Sistemas</h1></div>
                       </div>
                       <div class="col-xl-8 offset-top-10">
+                        <!--
                         <h5 class="hidden d-sm-block text-light" data-caption-animate="fadeInUp" data-caption-delay="500">
                           Desenvolvemos sistemas sob medida pensando no processo e modelo de negócio do seu projeto.
                         </h5>
+                        -->
+                        <h5><span class="typewrite" data-loop="yes" data-speed="50" data-delay="2000" data-caption-animate="fadeInUp" data-caption-delay="500" data-words='["Desenvolvemos sistemas de acordo com seu negócio"]'></span></h5>
                         <div class="offset-top-20 offset-sm-top-50"><a class="btn btn-danger btn-anis-effect" href="#servicos" data-waypoint-to="#welcome" data-caption-animate="fadeInUp" data-caption-delay="800"><span class="btn-text">Saiba mais...</span></a></div>
                       </div>
                     </div>
@@ -114,7 +117,10 @@
                         <div class="text-extra-big font-weight-bold font-italic text-uppercase" data-caption-animate="fadeInUp" data-caption-delay="300"><h1>Melhorias no seu sistema</h1></div>
                       </div>
                       <div class="col-xl-8 offset-top-10">
+                        <!--
                         <h5 class="hidden d-sm-block text-light" data-caption-animate="fadeInUp" data-caption-delay="500">Inove e destaque-se dos concorrentes!</h5>
+                        -->
+                        <h5><span class="typewrite" data-loop="yes" data-speed="100" data-delay="2000" data-caption-animate="fadeInUp" data-caption-delay="500" data-words='["Inove e destaque-se dos concorrentes!"]'></span></h5>
                         <div class="offset-top-20 offset-sm-top-50"><a class="btn btn-danger btn-anis-effect" href="#servicos" data-waypoint-to="#welcome" data-caption-animate="fadeInUp" data-caption-delay="800"><span class="btn-text">Saiba mais...</span></a></div>
                       </div>
                     </div>
@@ -347,6 +353,7 @@
     ?>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="js/typewriting.min.js"></script>
     <!-- ionicons -->
   </body>
 </html>
