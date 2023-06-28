@@ -328,7 +328,6 @@
                 
                 <div class="col-sm-10 col-md-3 offset-top-66 order-md-3 col-md-10 col-xl-2 offset-xl-top-0 order-xl-3">
                   <!-- Flickr Feed-->
-                  <p class="text-uppercase text-spacing-60 font-weight-bold">Feito por: Ricardo Junior</p>
                   <p class="text-spacing-60 font-weight-bold">ricardojuniorti@gmail.com</p>
                 </div>
                
