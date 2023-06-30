@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="wow-animation" lang="pt-br">
   <head>
-    <title>Home</title>
+    <title>JC TEC</title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -41,11 +41,11 @@
               <!-- RD Navbar Top Panel-->
               <div class="rd-navbar-top-panel context-dark bg-danger">
                 <div class="left-side">
-                  <address class="contact-info text-left"><a href="#"><span class="icon mdi mdi-whatsapp novi-icon"></span><span class="text-middle">Whatsapp</span></a></address>
+                  <address class="contact-info text-left"><a href="https://api.whatsapp.com/send?phone=5531991529663&text=Gostaria%20de%20saber%20mais%20sobre%20o%20desenvolvimento%20de%20Sistemas e sites!!!"><span class="icon mdi mdi-whatsapp novi-icon"></span><span class="text-middle">Whatsapp</span></a></address>
                 </div>
                 <div class="center">   
                   <div class="left-side">
-                    <address class="contact-info text-left"><span class="text-middle">RJ Tecnologia</span></address>
+                    <address class="contact-info text-left"><span class="text-middle">JCTEC Soluções</span></address>
                   </div>
                 </div>
                 <div class="right-side">
@@ -63,7 +63,9 @@
                 <!-- RD Navbar Top Panel Toggle-->
                 <button class="rd-navbar-top-panel-toggle" data-rd-navbar-toggle=".rd-navbar, .rd-navbar-top-panel"><span></span></button>
                 <!--Navbar Brand-->
-                <div class="rd-navbar-brand"><a href="#principal"><img width='50' height='50' src='images/logo.png' alt=''/></a></div>
+                <div class="rd-navbar-brand"><a href="#principal"><img width='50' height='50' src='images/logo.png' alt=''/></a>
+                  
+                </div>
               </div>
               <div class="rd-navbar-menu-wrap">
                 <div class="rd-navbar-nav-wrap">
@@ -333,7 +335,9 @@
                
                 <div class="col-sm-10 col-md-3 offset-top-66 order-md-1 offset-md-top-0 col-md-6 col-xl-3 order-xl-1">
                   <!-- Footer brand-->
-                  <div class="footer-brand"><a href="#principal"><img width='80' height='80' src='images/logo.png' alt=''/></a></div>             
+                  <div class="footer-brand"><a href="#principal"><img width='80' height='80' src='images/logo.png' alt=''/></a>
+                  JC TEC
+                  </div>             
                 </div>
               </div>
             </div>
