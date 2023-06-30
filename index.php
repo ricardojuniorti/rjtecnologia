@@ -72,7 +72,7 @@
                     <div class="rd-navbar-mobile-brand"><a href="#principal"><img width='164' height='45' src='images/logo.png' alt=''/></a></div>
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="active"><a href="#clientes"><span>Clientes</span></a></li>
+                      <li><a href="#clientes"><span>Clientes</span></a></li>
                       <li><a href="#sobre"><span>Sobre</span></a></li>
                       <li><a href="#servicos"><span>Servicos</span></a></li>
                       <li><a href="#contato"><span>Contato</span></a></li>
