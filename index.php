@@ -63,13 +63,13 @@
                 <!-- RD Navbar Top Panel Toggle-->
                 <button class="rd-navbar-top-panel-toggle" data-rd-navbar-toggle=".rd-navbar, .rd-navbar-top-panel"><span></span></button>
                 <!--Navbar Brand-->
-                <div class="rd-navbar-brand"><a href="#principal"><img width='164' height='45' src='images/logo.png' alt=''/></a></div>
+                <div class="rd-navbar-brand"><a href="#principal"><img width='50' height='50' src='images/logo.png' alt=''/></a></div>
               </div>
               <div class="rd-navbar-menu-wrap">
                 <div class="rd-navbar-nav-wrap">
                   <div class="rd-navbar-mobile-scroll">
                     <!--Navbar Brand Mobile-->
-                    <div class="rd-navbar-mobile-brand"><a href="#principal"><img width='164' height='45' src='images/logo.png' alt=''/></a></div>
+                    <div class="rd-navbar-mobile-brand"><a href="#principal"><img width='50' height='50' src='images/logo.png' alt=''/></a></div>
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
                       <li><a href="#clientes"><span>Clientes</span></a></li>
@@ -333,7 +333,7 @@
                
                 <div class="col-sm-10 col-md-3 offset-top-66 order-md-1 offset-md-top-0 col-md-6 col-xl-3 order-xl-1">
                   <!-- Footer brand-->
-                  <div class="footer-brand"><a href="#principal"><img width='164' height='45' src='images/logo.png' alt=''/></a></div>             
+                  <div class="footer-brand"><a href="#principal"><img width='80' height='80' src='images/logo.png' alt=''/></a></div>             
                 </div>
               </div>
             </div>
